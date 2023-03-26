@@ -1,0 +1,15 @@
+D:\_GeekBrains\KR_1\bin\Debug\net6.0\KR_1.exe
+D:\_GeekBrains\KR_1\bin\Debug\net6.0\KR_1.deps.json
+D:\_GeekBrains\KR_1\bin\Debug\net6.0\KR_1.runtimeconfig.json
+D:\_GeekBrains\KR_1\bin\Debug\net6.0\KR_1.dll
+D:\_GeekBrains\KR_1\bin\Debug\net6.0\KR_1.pdb
+D:\_GeekBrains\KR_1\obj\Debug\net6.0\KR_1.csproj.AssemblyReference.cache
+D:\_GeekBrains\KR_1\obj\Debug\net6.0\KR_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\_GeekBrains\KR_1\obj\Debug\net6.0\KR_1.AssemblyInfoInputs.cache
+D:\_GeekBrains\KR_1\obj\Debug\net6.0\KR_1.AssemblyInfo.cs
+D:\_GeekBrains\KR_1\obj\Debug\net6.0\KR_1.csproj.CoreCompileInputs.cache
+D:\_GeekBrains\KR_1\obj\Debug\net6.0\KR_1.dll
+D:\_GeekBrains\KR_1\obj\Debug\net6.0\refint\KR_1.dll
+D:\_GeekBrains\KR_1\obj\Debug\net6.0\KR_1.pdb
+D:\_GeekBrains\KR_1\obj\Debug\net6.0\KR_1.genruntimeconfig.cache
+D:\_GeekBrains\KR_1\obj\Debug\net6.0\ref\KR_1.dll
